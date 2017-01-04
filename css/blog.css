@@ -1,10 +1,13 @@
 .intro {
   font-style: normal;
   font-family:verdana;
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
 
 .about {
   font-family: Arial;
   color:blue;
-  
+  margin-top: 45px;
+
 }
